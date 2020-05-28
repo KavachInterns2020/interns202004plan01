@@ -1,2 +1,3 @@
 # interns202004plan01
-Plan for Ecommerce Application
+Projects for Interns
+ 
